@@ -67,7 +67,7 @@ const OceanView = () => {
           transition={{ duration: 0.5 }}
         >
           <iframe 
-            src="https://ocean-eye-3v9c.vercel.app/" 
+            src="https://real-time-ocean-monitor-cfq9.vercel.app/" 
             title="Ocean View Explorer" 
             className="w-full h-full border-0" 
             allowFullScreen
